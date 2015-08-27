@@ -7,7 +7,7 @@ namespace m101n
     {
         static void Main(string[] args)
         {
-            Context context = new Context(new Week2Assignment());
+            Context context = new Context(new Week4Assignment());
             context.doAssignment();
             Console.WriteLine("Press Enter");
             Console.ReadLine();

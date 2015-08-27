@@ -55,6 +55,7 @@
     <Compile Include="IAssignment.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Week2Assignment.cs" />
+    <Compile Include="Week4Assignment.cs" />
     <Compile Include="Week3Assignment.cs" />
   </ItemGroup>
   <ItemGroup>
