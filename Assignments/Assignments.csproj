@@ -54,6 +54,11 @@
   <ItemGroup>
     <Compile Include="IAssignment.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Week54Assignment.cs" />
+    <Compile Include="Week53Assignment.cs" />
+    <Compile Include="Week52Assignment.cs" />
+    <Compile Include="Week51Assignment.cs" />
+    <Compile Include="Week44Assignment.cs" />
     <Compile Include="Week2Assignment.cs" />
     <Compile Include="Week4Assignment.cs" />
     <Compile Include="Week3Assignment.cs" />
@@ -63,6 +68,19 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Include="handouts\homework_3_1\students.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="handouts\homework_4_4\import.bat" />
+    <None Include="handouts\homework_4_4\sysprofile.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="handouts\homework_5_2\small_zips.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="handouts\homework_5_3\grades.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="handouts\homework_5_4\zips.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Include="packages.config" />
